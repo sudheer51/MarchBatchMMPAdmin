@@ -4,7 +4,13 @@ import java.util.List;
 import java.util.Vector;
 
 import org.openqa.selenium.By;
-////
+ 
+/**
+This file is arraylist.java
+*/
+
+
+
 public class ArrayListEx {
 
 	public static void main(String[] args) {
